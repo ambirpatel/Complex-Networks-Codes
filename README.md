@@ -22,8 +22,8 @@ compute the following:
 (c) Pagerank centralities of the vertices
 
 
-                                  Computational Assignment 2
-                                      Complex Networks 1
+                                    Computational Assignment 2
+                                        Complex Networks 1
 1. Write a code that computes the global clustering coefficient and the degree assortativity of
 a given network. Using this code, compute these quantifiers for the networks lesmis.dat and
 polbooks.dat
