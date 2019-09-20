@@ -1,7 +1,7 @@
 # Complex-Networks-Codes
 
                                       Computational Assignment 1
-                                          Complex Networks 1
+
 1. Save each of the following networks in the computer memory as an adjacency matrix, and then
 write a code to compute the degree of each vertex using the adjacency matrix.
 ![Fig](/CN_comp_assign1/1.png)
@@ -23,7 +23,7 @@ compute the following:
 
 
                                     Computational Assignment 2
-                                        Complex Networks 1
+
 1. Write a code that computes the global clustering coefficient and the degree assortativity of
 a given network. Using this code, compute these quantifiers for the networks lesmis.dat and
 polbooks.dat
