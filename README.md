@@ -4,7 +4,7 @@
                                           Complex Networks 1
 1. Save each of the following networks in the computer memory as an adjacency matrix, and then
 write a code to compute the degree of each vertex using the adjacency matrix.
-![Fig](Complex-Networks-Codes/CN_comp_assign1/1.png)
+![Fig](/CN_comp_assign1/1.png)
 
 
 2. The files lesmis.dat and polbooks.dat contain a list of edges for two networks. Write a code which
